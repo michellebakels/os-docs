@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Developer Health OS was designed to provide information alongside a
+        set of tools to make forming healthier habits easier.
       </>
     ),
   },
@@ -18,18 +18,18 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The Developer Health OS allows you to read the guide at your own pace
+        or search for specific information on a topic.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Shareable',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Share the entire guide or sections of The Developer Health OS easily with
+        family, friends, colleagues, bosses, and more.
       </>
     ),
   },
